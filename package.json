@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "web-ext build --as-needed --overwrite-dest",
+        "build": "web-ext build --overwrite-dest"
+    }
+}
