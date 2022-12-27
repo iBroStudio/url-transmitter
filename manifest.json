@@ -25,5 +25,11 @@
     "options_ui": {
         "page": "options.html",
         "browser_style": true
+    },
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "urltransmitter@ibro.studio",
+        "strict_min_version": "57.0"
+      }
     }
 }
